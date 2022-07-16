@@ -10,7 +10,7 @@ First we need to add this js file as external references
   
 #### Download .zip
 
-[Download .ZIP](https://github.com/ShahriarGolshan/digitalClock)
+[Download .ZIP](https://github.com/ShahriarGolshan/digitalClock/raw/main/DigitalClock.rar)
 
 ---
 
